@@ -24,8 +24,8 @@ Follow these steps to set up the application locally:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Saivenkat00411/frontend_assesment.git
-   cd frontend_assesment
+   git clone https://github.com/Saivenkat00411/Expense-Calculator.git
+   cd Expense-Calculator
    npm install
 
 2. **Start the Application**:
